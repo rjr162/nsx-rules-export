@@ -2,7 +2,7 @@
 
 Written by Ron Rossman Jr (ronrossman@gmail.com)
 
-A python3 script to export firewall rule information from NSX to a XLSX spreadsheet, with each "Policy Section" in the firewall recorded into its own sheet in the spreadsheet file.
+A python3 script to export the Distributed Firewall rules information from NSX to a XLSX spreadsheet, with each "Policy Section" in the firewall recorded into its own sheet in the spreadsheet file.
 
 An attempt is made to query for each object in each area of a rule to fully develope a copy of the rule, using new lines in the cell for every item.
 
