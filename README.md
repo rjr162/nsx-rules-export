@@ -1,6 +1,6 @@
 # nsx-rules-export
 
-Written by Ron Rossman Jr
+Written by Ron Rossman Jr (ronrossman@gmail.com)
 
 A python3 script to export firewall rule information from NSX to a XLSX spreadsheet, with each "Policy Section" in the firewall recorded into its own sheet in the spreadsheet file.
 
